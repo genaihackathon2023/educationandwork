@@ -24,5 +24,5 @@ More to come soon...
 
 ### Important links:
 
-* [Registration form]([https://forms.gle/cyCnZG2gThDpgDkW7](https://forms.gle/SSaHD1uzcDGcdJxZ9))
+* [Registration form](https://forms.gle/SSaHD1uzcDGcdJxZ9)
 * [Code of conduct](https://cs.cmu.edu/generative-ai/conduct)
