@@ -39,4 +39,4 @@ For any questions or more information please contact the event organizers via [e
 ### Important links:
 
 * [Registration form](https://forms.gle/SSaHD1uzcDGcdJxZ9)
-* [Code of conduct]([https://cs.cmu.edu/generative-ai/conduct](https://drive.google.com/file/d/16kiEzKnA6QFvCDoe8DsV6hdOa5zsnqzr/view?usp=sharing))
+* [Code of conduct](https://drive.google.com/file/d/16kiEzKnA6QFvCDoe8DsV6hdOa5zsnqzr/view?usp=sharing)
