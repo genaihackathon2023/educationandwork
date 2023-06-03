@@ -20,23 +20,24 @@ For any questions or more information please contact the event organizers via [e
 ---
 
 ## Important dates and times:
+(All times are Eastern Daylight, EDT.)
 
 * June 2-9: Registration ([form](https://forms.gle/SSaHD1uzcDGcdJxZ9)) 
-* Saturday, June 17 (11 a.m.–1:00 p.m. EDT): Mixer and ideation event
-* Saturday, July 1 (11 a.m.–1:00 p.m. EDT): Team curation event
+* Saturday, June 17 (11 a.m.–1:00 p.m.): Mixer and ideation event (Zoom)
+* Saturday, July 1 (11 a.m.–1:00 p.m.): Team curation event (Zoom)
 * July 21–23: Hackathon
-* Friday, August 11 (11 a.m.–1:00 p.m. EDT): Hackathon demo session
+* Friday, August 11 (11 a.m.–1:00 p.m.): Hackathon demo session (Zoom)
 
 ## Hackathon schedule:
-* Friday, July 21 (5:00 p.m. EDT): Kickoff session
-* Saturday, July 22 (10:00 a.m. EDT): Checkpoint 1
-* Saturday, July 22 (12:00 p.m. EDT): Spotlight session
-* Saturday, July 22 (5:00 p.m. EDT): Checkpoint 2
-* Sunday, July 23 (10:00 a.m. EDT): Checkpoint 3
-* Sunday, July 23 (3:00 p.m. EDT): Team presentations and closing session
+* Friday, July 21 (5:00 p.m.): Kickoff session (Zoom)
+* Saturday, July 22 (10:00 a.m.): Checkpoint 1 (Zoom)
+* Saturday, July 22 (12:00 p.m.): Spotlight session (Zoom)
+* Saturday, July 22 (5:00 p.m.): Checkpoint 2 (Zoom)
+* Sunday, July 23 (10:00 a.m.): Checkpoint 3 (Zoom)
+* Sunday, July 23 (3:00 p.m.): Team presentations and closing session (Zoom)
 ---
 
 ### Important links:
 
 * [Registration form](https://forms.gle/SSaHD1uzcDGcdJxZ9)
-* [Code of conduct](https://drive.google.com/file/d/16kiEzKnA6QFvCDoe8DsV6hdOa5zsnqzr/view?usp=sharing)
+* [Code of conduct](https://www.cs.cmu.edu/generative-ai/conduct)
