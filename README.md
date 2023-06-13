@@ -23,7 +23,7 @@ For any questions or more information please contact the event organizers via [e
 (All times are Eastern Daylight, EDT.)
 
 * June 2-9: Registration ([form](https://forms.gle/SSaHD1uzcDGcdJxZ9)) 
-* Saturday, June 17 (11 a.m.–1:00 p.m.): Mixer and ideation event ([Zoom](https://cmu.zoom.us/j/98559807028?pwd=TmVxTlV1Y3BZYWZsVUo2blZEUFdzdz09))
+* Saturday, June 17 (11 a.m.–1:00 p.m.): Mixer and ideation event ([Zoom](https://cmu.zoom.us/j/98559807028?pwd=TmVxTlV1Y3BZYWZsVUo2blZEUFdzdz09), [Slides](#))
 * Saturday, July 1 (11 a.m.–1:00 p.m.): Team curation event ([Zoom](https://cmu.zoom.us/j/98559807028?pwd=TmVxTlV1Y3BZYWZsVUo2blZEUFdzdz09))
 * July 21–23: Hackathon ([Zoom](https://cmu.zoom.us/j/98559807028?pwd=TmVxTlV1Y3BZYWZsVUo2blZEUFdzdz09))
 * Friday, August 11 (11 a.m.–1:00 p.m.): Hackathon demo session (Zoom)
@@ -39,5 +39,9 @@ For any questions or more information please contact the event organizers via [e
 
 ### Important links:
 
-* [Registration form](https://forms.gle/SSaHD1uzcDGcdJxZ9)
+* [Hackathon registration](https://forms.gle/SSaHD1uzcDGcdJxZ9)
+* [Tutorial registration](https://cs.cmu.edu/generative-ai/forms/event-registration)
 * [Code of conduct](https://www.cs.cmu.edu/generative-ai/conduct)
+* [Slack registration](https://join.slack.com/t/genaicommunity/shared_invite/zt-1wi4julw3-~O4stqKCl9owMARbSyeuzw)
+* [This is who we are! slide deck](https://bit.ly/gai3-education-team)
+* [Team pitch deck](https://bit.ly/gai-education-pitches)
