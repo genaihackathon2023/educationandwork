@@ -1,6 +1,6 @@
-# Education and future of work
+# Education and the Future of Work
 
-Welcome to the overview page of the "Education and future of work" track of the Generative AI Innovation Incubator hackathon series organized by the School of Computer Science at Carnegie Mellon University, Pittsburgh, PA, USA. The track is organized as a cascade of 3 interconnected events culminating in a 3-day online hackathon from July 21 to 23. More information about this track is included below. All times are Eastern Daylight (EDT).
+Welcome to the overview page of the "Education and the Future of Work" track of the Generative AI Innovation Incubator hackathon series organized by the School of Computer Science at Carnegie Mellon University, Pittsburgh, PA, USA. The track is organized as a cascade of 3 interconnected events culminating in a 3-day online hackathon from July 21 to 23. More information about this track is included below. All times are Eastern Daylight (EDT).
 
 ![Track overview](overview.png?raw=true "Track overview")
 _The image above is a visual representation of the timeline for each hackathon event._
