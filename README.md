@@ -44,5 +44,4 @@ For any questions or more information please contact the event organizers via [e
 * [Tutorial registration](https://cs.cmu.edu/generative-ai/forms/event-registration)
 * [Code of conduct](https://www.cs.cmu.edu/generative-ai/conduct)
 * [Slack registration](https://join.slack.com/t/genaicommunity/shared_invite/zt-1wi4julw3-~O4stqKCl9owMARbSyeuzw)
-* [This is who we are! slide deck](https://docs.google.com/presentation/d/1WMWo9d_MbNeqdxUUUwEnatpU4zim8CZBTCxGbhun3sg/edit?usp=sharing)
 * [Team pitch deck](https://docs.google.com/presentation/d/18BHKEMaPbFYX8wi5D6YBYut7Who1c_g7inPUm2hQhzA/edit?usp=sharing)
