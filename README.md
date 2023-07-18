@@ -15,6 +15,8 @@ To register for a hackathon and for an overview of the events schedules, please 
 
 For any questions or more information please contact the event organizers via [email](mailto:llmhackathon2023@cs.cmu.edu) or in Slack.
 
+If you want to share your experience before, during, and after the hackathon, please use the hashtag [#gai3](https://twitter.com/hashtag/gai3).
+
 ### This website will be updated as new information becomes available.
 
 ---
