@@ -32,10 +32,10 @@ If you want to share your experience before, during, and after the hackathon, pl
 
 ## Hackathon schedule:
 * Friday, July 21 (5:00 p.m.): Kickoff session ([Zoom](https://cmu.zoom.us/j/98559807028?pwd=TmVxTlV1Y3BZYWZsVUo2blZEUFdzdz09), [Slides](https://drive.google.com/file/d/1A5BPjO80jk12Xj43oxII8GB9QTQ4O9g_/view?usp=sharing))
-* Saturday, July 22 (10:00 a.m.): Checkpoint 1 ([Zoom](https://cmu.zoom.us/j/98559807028?pwd=TmVxTlV1Y3BZYWZsVUo2blZEUFdzdz09))
+* Saturday, July 22 (10:00 a.m.): Checkpoint 1 ([Zoom](https://cmu.zoom.us/j/98559807028?pwd=TmVxTlV1Y3BZYWZsVUo2blZEUFdzdz09), [Slides](https://drive.google.com/file/d/1C5SjG88DR8KBPvbHo0_CW70rOe9JTxWq/view?usp=sharing))
 * Saturday, July 22 (12:00 p.m.): Spotlight session ([Zoom](https://cmu.zoom.us/j/98559807028?pwd=TmVxTlV1Y3BZYWZsVUo2blZEUFdzdz09))
-* Saturday, July 22 (5:00 p.m.): Checkpoint 2 ([Zoom](https://cmu.zoom.us/j/98559807028?pwd=TmVxTlV1Y3BZYWZsVUo2blZEUFdzdz09))
-* Sunday, July 23 (10:00 a.m.): Checkpoint 3 ([Zoom](https://cmu.zoom.us/j/98559807028?pwd=TmVxTlV1Y3BZYWZsVUo2blZEUFdzdz09))
+* Saturday, July 22 (5:00 p.m.): Checkpoint 2 ([Zoom](https://cmu.zoom.us/j/98559807028?pwd=TmVxTlV1Y3BZYWZsVUo2blZEUFdzdz09), [Slides](https://drive.google.com/file/d/1C5SjG88DR8KBPvbHo0_CW70rOe9JTxWq/view?usp=sharing))
+* Sunday, July 23 (10:00 a.m.): Checkpoint 3 ([Zoom](https://cmu.zoom.us/j/98559807028?pwd=TmVxTlV1Y3BZYWZsVUo2blZEUFdzdz09), [Slides](https://drive.google.com/file/d/1C5SjG88DR8KBPvbHo0_CW70rOe9JTxWq/view?usp=sharing))
 * Sunday, July 23 (1:00 p.m.): Team presentations and closing session ([Zoom](https://cmu.zoom.us/j/98559807028?pwd=TmVxTlV1Y3BZYWZsVUo2blZEUFdzdz09))
 
 ---
